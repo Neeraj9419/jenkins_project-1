@@ -2,3 +2,4 @@
 <h2> Deploying on kubernetes time 11:05pm </h2>
 <h2>tomcat server deployed sucessfully</h2>
 <h3>take care bye bye</h3>
+<h1>application deployed on conatainer</h1>

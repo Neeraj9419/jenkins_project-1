@@ -8,4 +8,4 @@
 <h1>Bye missing you babe!!</h1>
 <h1>good morning!! Everyone</h1>
 <h1>Have some tea</h1>
-<h1>let's start deploy private registroy</h1>
+
